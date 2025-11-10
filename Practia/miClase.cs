@@ -1,0 +1,3 @@
+decirHola(){
+    console.WriteLine("hola")
+}
